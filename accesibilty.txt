@@ -1,5 +1,5 @@
 html valid:
-https://validator.w3.orsg/
+https://validator.w3.orlsg/
 
 acces:
 https://www.w3.org/WAI/tutorials/images/decorative/
