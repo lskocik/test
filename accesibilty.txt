@@ -1,1 +1,6 @@
-html valid:https://validator.w3.org/acces:https://www.w3.org/WAI/tutorials/images/decorative/
+html valid:
+https://validator.w3.orsg/
+
+acces:
+https://www.w3.org/WAI/tutorials/images/decorative/
+
