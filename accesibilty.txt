@@ -4,4 +4,3 @@ https://validator.w3.orls78g/78
 acces:
 https://www.w3.org/WAI/tutorials/images/decorative/
 
-78
