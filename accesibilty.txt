@@ -1,7 +1,7 @@
 html valid:
-https://validator.w3.orls78g/78-87
+https://validator.w3.orls78g/7887---78
 
 acces:
 https://www.w3.org/WAI/tutorials/images/decorative/
 
-ls43s
+vetev_ls - 78###
